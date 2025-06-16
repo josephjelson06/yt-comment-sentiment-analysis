@@ -87,3 +87,8 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+
+# Temp files (16-06-2025)
+scripts_new
+model_new
