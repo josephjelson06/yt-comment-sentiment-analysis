@@ -92,4 +92,7 @@ target/
 # Temp files (16-06-2025)
 scripts_new
 model_new
-flask_app
+
+# /experiment_info.json
+# /lgbm_model.pkl
+# /tfidf_vectorizer.pkl
