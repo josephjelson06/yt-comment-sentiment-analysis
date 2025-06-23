@@ -90,7 +90,7 @@ mdurl==0.1.2
 mlflow==2.17.0
 mlflow-skinny==2.17.0
 multidict==6.5.0
-networkx==3.5
+networkx==3.4.2
 nltk==3.9.1
 numpy==2.1.2
 omegaconf==2.3.0
